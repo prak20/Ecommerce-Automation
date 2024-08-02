@@ -1,0 +1,10 @@
+2024-08-02 23:05:54,083 - logger - INFO - Test execution started
+2024-08-02 23:06:04,260 - logger - INFO - Amazon Product Searched!
+2024-08-02 23:06:07,905 - logger - INFO - Amazon Product Details: {'name': 'Titan Smart 3 Premium Smart Watch|1.96" Super AMOLED Display with 410x502 Pixel Resolution|SingleSync BT Calling|NitroFast Charging|110+ Sports Modes|200+ Watchfaces|Upto 7 Days Battery (Black)', 'price': '4,999', 'link': 'https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMzQwNzQ2NTY1OTcwMTg3OjE3MjI2MjAxNTg6c3BfYXRmOjMwMDA4NzYyNDQ1ODYzMjo6MDo6&url=%2FTitan-Resolution-SingleSync-NitroFast-Watchfaces%2Fdp%2FB0CCYPRZH6%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.JwN0eey6nVdM_BjTSvpPChEqxjOxxJtE6rrHGHdBPRhMkbKZwi8z407gKmQ0bHMt9cIqDXN2YpfpS0RW257mutsKerlJYF_lWu90WZgO7daoVzVV1uvOR16rmXV2ayAoxM2s6p3m0wFHmUu2z-qrAVbE05laWFse85cpvgIyMAc5gr_0hzX0AmqaQiPOjgADF1nfL6w-KZhyjskkDumBKp3WBYnD9yYf103UEpUC35QBz1gPCjMlSAWx3B3l0ZVi2Bdk845gGQ0Qd-7vyn7dISjMVXtJz9uTzoVaPEnjHus.oLt5UVNqSVhHKBYTTu4eiCU4pKdStgXDM8128nV4MY8%26dib_tag%3Dse%26keywords%3DTitan%2Bwatch%26qid%3D1722620158%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1'}
+2024-08-02 23:06:37,107 - logger - INFO - Product - Titan Smart 3 Premium Smart Watch|1.96" Super AMOLED Display with 410x502 Pixel Resolution|SingleSync BT Calling|NitroFast Charging|110+ Sports Modes|200+ Watchfaces|Upto 7 Days Battery (Black) Added to Cart !
+2024-08-02 23:07:12,523 - logger - INFO - Proceeding to Buy the Product!
+2024-08-02 23:07:38,091 - logger - INFO - Flipkart Product Searched
+2024-08-02 23:08:18,778 - logger - INFO - Product - Karishma Analog Watch - For Men NN1639SM01 Added to Cart !
+2024-08-02 23:09:12,888 - logger - INFO - Proceeding to Buy the Product!
+2024-08-02 23:09:58,276 - logger - INFO - Test execution completed
+2024-08-02 23:09:58,277 - logger - INFO - Screenshots and logs have been attached to the HTML report

@@ -1,0 +1,9 @@
+selenium~=4.23.1
+utils~=1.0.2
+requests~=2.32.3
+pytest~=8.3.2
+pytest-html
+pytest-playwright
+locust~=2.29.1
+pytest-xdist
+pillow~=10.4.0
